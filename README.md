@@ -43,9 +43,9 @@ python hallucination_llm.py
 
 ### Plotting
 ```bash
-python plotting_llm.py #for plotting of Figure 4
-python plotting_text_to_img.py #for plotting of Figure 4
-python ablation_plotting_text_to_img.py #for ablation study plots
+python plotting_llm.py # for plotting of Figure 4
+python plotting_text_to_img.py # for plotting of Figure 5
+python ablation_plotting_text_to_img.py # for ablation study plots
 ```
 
 ## Citation
