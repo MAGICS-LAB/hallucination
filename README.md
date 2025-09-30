@@ -1,6 +1,6 @@
 # Are Hallucinations Bad Estimations?
 
-This is the code for the paper Are Hallucinations Bad Estimations? You can use this repo to reproduce the results in the paper.
+This is the code for the paper [**Are Hallucinations Bad Estimations?**](https://arxiv.org/abs/2509.21473) You can use this repo to reproduce the results in the paper.
 
 ## Environment Setup
 
