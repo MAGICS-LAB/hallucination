@@ -35,7 +35,7 @@ python hallucination_llm.py
     python text_to_img_exp/fine-tune_text_to_img.py
         -- output_dir "./model"
     ```
-2. Hallucinatino Rate Analysis with Frozen Model
+2. Hallucination Rate Analysis with Frozen Model
     ```bash
     python text_to_img_exp/hallucination_text_to_img_report.py                  
         --checkpoints_glob "./model/checkpoint-*/unet"
