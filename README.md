@@ -50,6 +50,7 @@ python ablation_plotting_text_to_img.py # for ablation study plots
 
 ## Citation
 If you find our work useful, please cite:
+```bibtex
 @article{liu2025hallucinations,
   title={Are Hallucinations Bad Estimations?},
   author={Liu, Hude and Hu, Jerry Yao-Chieh and Zhang, Jennifer Yuntong and Song, Zhao and Liu, Han},
